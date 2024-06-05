@@ -3,7 +3,7 @@
 3. From the JDK list, select the latest available Oracle OpenJDK version.
 4. Create a 'GitHub' Repository named as "WordCounter".
 5. Add the version control link 'https' IntelliJ URL field.
-6. Select directory.
+6. Select directory and clone.
 ![IDEA 1](https://github.com/farahNshammo/WordCounter/assets/68165049/4850332c-b392-4636-8396-2a9166a1dc78)
 7. Enable the sample code option to create a class with a wordcount.
 8. When the project is created, in the Project tool window (Alt), locate the WordCounter|src|WordCounter.java file and open it in the editor.
